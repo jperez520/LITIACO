@@ -4,11 +4,8 @@ import streamlit as st
 st.set_page_config(
     page_title="Línea de tiempo — Abusos del clero",
     layout="wide",
-    page_icon="🕰️"
 )
 
-st.title("🕰️ Línea de Tiempo — Abusos del Clero Católico")
-st.caption("Visualización cronológica histórica (Siglo XI – 2023)")
 
 # Código HTML incrustado
 html_code = """
