@@ -86,7 +86,18 @@ html_code = """
           <article class="node" data-pos="55"><div class="media"><img src="https://elpueblocatolico.org/wp-content/uploads/2023/10/Juan-Pablo-II.jpg"></div><div class="date">1978–2005</div><div class="role">Juan Pablo II — Encubrimiento</div><div class="text">Casos ocultos; procedimientos internos sin justicia civil.</div></article>
           <article class="node" data-pos="65"><div class="media"><img src="https://media.revistavanityfair.es/photos/60e85ee0c575901c42629089/master/w_3940%2Cc_limit/49282.jpg"></div><div class="date">1992</div><div class="role">Sinéad O’Connor — Protesta</div><div class="text">Rompe foto del Papa en TV, denuncia encubrimiento.</div></article>
           <article class="node" data-pos="75"><div class="media"><img src="https://nuestra-voz.org/wp-content/uploads/2020/03/20180705T1237-18136-CNS-POPE-BALTIC-SCHEDULE_web.jpg"></div><div class="date">2001</div><div class="role">Juan Pablo II — Disculpa</div><div class="text">Pide perdón por los abusos del clero.</div></article>
-          <article class="node" data-pos="85"><div class="media"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Boston_Globe.svg/1280px-The_Boston_Globe.svg.png"></div><div class="date">2002</div><div class="role">Boston Globe — Investigación</div><div class="text">Revela encubrimiento masivo en EE.UU.</div></article>
+          <article class="node" data-pos="85"><div class="media"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Boston_Globe.svg/1280px-The_Boston_Globe.svg.png" 
+                style="width: 300px; height: auto; border-radius: 8px; margin-top: 10px;">
+              <p style="font-size: 14px; color: #555; margin-top: 5px;">
+              </p>
+            </div>
+
+            <div class="date">2002</div>
+            <div class="role">Investigación — <strong>Boston Globe</strong></div>
+            <div class="text">
+              Revela encubrimiento sistemático en Estados Unidos; inspira investigaciones globales y la película <em>Spotlight</em>.
+            </div>
+          </article>
           <article class="node" data-pos="95"><div class="media"><img src="https://www.clonline.org/storage_files/43708/benedictoxvicpp-b-o.jpg"></div><div class="date">2005–2013</div><div class="role">Benedicto XVI — Acciones</div><div class="text">Inicia sanciones internas y reuniones con víctimas.</div></article>
           <article class="node" data-pos="105"><div class="media"><img src="https://ichef.bbci.co.uk/news/1024/branded_mundo/8e4b/live/b62431d0-1eb3-11f0-9d4d-4370edfa48ef.jpg"></div><div class="date">2010–2017</div><div class="role">Papa Francisco — Crisis</div><div class="text">Errores iniciales y disculpas públicas.</div></article>
           <article class="node" data-pos="115"><div class="media"><img src="https://media.vaticannews.va/media/content/dam-archive/vaticannews/images-multimedia/srv/08504_18042014.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"></div><div class="date">2018–2019</div><div class="role">Francisco — Cumbre Mundial</div><div class="text">Convoca reunión global sobre abusos.</div></article>
