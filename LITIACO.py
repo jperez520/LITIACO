@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Línea de tiempo — Abusos del clero (Pantalla completa)</title>
+  <title>Línea de tiempo Abusos del clero (Pantalla completa)</title>
   <style>
     :root{
       --bg:#f7efe6; /* papel antiguo */
